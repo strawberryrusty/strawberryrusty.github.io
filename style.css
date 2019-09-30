@@ -394,7 +394,7 @@ li {
 }
 
 .timeline ul .date p {
-    color: #ffffff;
+    color: black;
 }
 
 .timeline .date {
@@ -402,7 +402,7 @@ li {
     margin-bottom: 1rem;
     padding-bottom: 1rem;
 
-    color: #ffffff;
+    color: black;
     position: relative;
 }
 
