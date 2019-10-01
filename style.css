@@ -300,6 +300,7 @@ li {
     text-transform: uppercase;
     letter-spacing: 2px;
     margin: 2rem -2px 2rem 0;
+    color: black;
 }
 
 .icon-container {
@@ -346,7 +347,7 @@ li {
     font-weight: 300;
     margin: 1rem 0;
     color: black;
-    opacity: 0.3;
+    opacity: 0.9;
 
 }
 
