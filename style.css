@@ -36,6 +36,8 @@ p {
 img {
     width: 100%;
     max-width: 100%;
+    border-radius: 3px;
+    /* box-shadow: 10px 10px 20px 20px white inset; */
 }
 
 /* End global */
@@ -243,10 +245,16 @@ li {
     color: black;
 }
 
-.profile-img {
+.profile-image {
     flex: 1;
     margin-right: 5rem;
 }
+
+/* #profile-image {
+  width: 65%;
+} */
+
+
 
 .about-details {
     flex: 1;
@@ -267,6 +275,10 @@ li {
 
 .fa-github-square:hover {
     color: #F1502F;
+}
+
+.fa-envelope:hover {
+  color: #fd57bf;
 }
 
 .fa-instagram:hover {
