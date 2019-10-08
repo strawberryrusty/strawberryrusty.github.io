@@ -202,7 +202,7 @@ li {
 .landing-text h1 {
     font-size: 15rem;
     font-family: 'Blastimo', sans-serif;
-    background: linear-gradient(#fd57bf, #ffe838);
+    background: black;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     padding: 1rem;
@@ -283,7 +283,7 @@ li {
 .my-skills {
     margin-top: 10rem;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
     grid-gap: 2.5rem;
     text-align: center;
 }
@@ -304,17 +304,17 @@ li {
 }
 
 .icon-container {
-    width: 10rem;
-    height: 10rem;
-    border: 3px solid #ffe838;
-    background-color: #fd57bf;
+    width: 9rem;
+    height: 9rem;
+    border: 3px solid white;
+    background-color: black;
     margin-bottom: 2rem;
     display: flex;
     transform: rotate(45deg);
 }
 
 .icon-container i {
-    color: #ffe838;
+    color: white;
     font-size: 5rem;
     margin: auto;
     transform: rotate(-45deg);
