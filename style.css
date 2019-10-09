@@ -40,6 +40,10 @@ img {
     /* box-shadow: 10px 10px 20px 20px white inset; */
 }
 
+span {
+  font-weight: 450;
+}
+
 /* End global */
 /* Start reusable */
 .container {
@@ -162,7 +166,7 @@ li {
 }
 
 .bar {
-    background: linear-gradient(to right, #ffe838, #fd57bf);
+    background: black;
     width: 100%;
     height: 4px;
     border-radius: .8rem;
