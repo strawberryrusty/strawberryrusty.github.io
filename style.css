@@ -107,7 +107,7 @@ header {
     height: 100vh;
     position: fixed;
     top: -100vh;
-    background-color: #16162d;
+    background-color: black;
     border-bottom-right-radius: 100%;
     border-bottom-left-radius: 100%;
     transition: all 650ms cubic-bezier(1,0,0,1);
