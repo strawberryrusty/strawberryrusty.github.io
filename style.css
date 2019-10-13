@@ -285,14 +285,13 @@ li {
   color: #fd57bf;
 }
 
-.fa-instagram:hover {
-    background: linear-gradient(#fd57bf, #ffe838);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
 
 .fa-linkedin:hover {
     color: #0077B5;
+}
+
+.icon-link {
+  color: black;
 }
 
 /* Start services */
@@ -378,14 +377,28 @@ li {
 .portfolio-description .cta {
     display: inline-block;
     margin-top: 2.5rem;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     text-transform: uppercase;
-    color: #3883ff;
+    color: black;
     transition: color 650ms;
+    margin-left: 14rem;
 }
 
 .portfolio-description .cta:hover {
     color: #2f67cd;
+}
+.portfolio-description .readme:hover {
+    color: #2f67cd;
+}
+
+.portfolio-description .readme {
+    display: inline-block;
+    margin-top: 2.5rem;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    color: black;
+    transition: color 650ms;
+    margin-left: 1.5rem;
 }
 
 /*start timeline */
