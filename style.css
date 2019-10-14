@@ -427,6 +427,7 @@ li {
 
 .timeline ul .date p {
     color: black;
+    font-size: 16px;
 }
 
 .timeline .date {
